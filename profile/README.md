@@ -36,4 +36,4 @@ A bot shared with Bot Drops. Paste your README and it answers with a one-line pi
 
 ## Say hello
 
-Questions, ideas and bug reports are welcome in the issues of each project. News and demos are on X at [@chrisbrainarts](https://x.com/chrisbrainarts).
+Questions, ideas and bug reports are welcome in the issues of each project. News and demos are on X at [@brainartslab](https://x.com/brainartslab).
